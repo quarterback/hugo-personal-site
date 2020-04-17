@@ -1,17 +1,17 @@
-baseURL: "https://example.com"
+baseURL: "https://ronbronson.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Ron Bronson"
 pygmentsstyle: 'monokai'
 
 # Theme settings
 theme: novela
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
+  twitter: "http://twitter.com/ronbronson"
+  github: "http://github.com/quarterback"
+  instagram: "http://instagram.com/ronbronson"
+  linkedin: "http://linkedin.com/in/ronbronson"
+  dribbble: "http://dribbble.com/ronbronson"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: Ron Bronson
