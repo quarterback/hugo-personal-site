@@ -1,8 +1,7 @@
 ---
 hero:
-  heading: Ron Bronson
-  maxWidthPX: "652"
+  heading: Ron Bronson is interested design, technology & its discontents.
+  maxWidthPX: 652
 seo:
-  image: ""
-
+  image: 
 ---
