@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/ronbronson/public_html/about
-    - /bin/cp -R * $DEPLOYPATH
