@@ -2,10 +2,8 @@
 title: About
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+Ron Bronson is an experience designer, information architect, digital director, and speaker. He works on large-scale digital transformation projects, collaborates with developers & other designers to build digital products, interfaces, and migrate large sites successfully. He's been on stage at conferences around the world discussing diverse topics around the user experience. Right now, he leads the product design team at 18F.
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Before moving to the west coast, Ron started a number of non-profit community design events including Indianapolis Design Week. He also local boards of Indy's AIGA and IxDA chapters. He also spent two years as a volunteer news anchor (and later, a board member) at community radio station WFHB-FM. A long time ago, he spent four years on active duty in the U.S Air Force, too.
 
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Ron sometimes coaches tennis; plays professional skeeball; volunteers with Code for PDX; an amateur tea sommelier; and is America's leading Finnish baseball (Pesäpallo) evangelist. If you want to talk about music, find him on Twitter.

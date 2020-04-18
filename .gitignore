@@ -1,2 +1,11 @@
 public
 .DS_Store
+.cpanel.yaml
+config.yaml
+content/_index.md
+content/about.md
+content/authors/brad-tiller/_index.md
+content/authors/dennis-brotzky/_index.md
+content/authors/mack-mansouri/_index.md
+content/authors/thiago-costa/_index.md
+themes/novela
