@@ -1,17 +1,16 @@
-baseURL: "https://ronbronson.com"
-languageCode: "en-us"
-title: "Ron Bronson"
-pygmentsstyle: 'monokai'
-
-# Theme settings
+---
+baseURL: https://ronbronson.com
+languageCode: en-us
+title: Ron Bronson
+pygmentsstyle: monokai
 theme: novela
 paginate: 6
 social:
-  twitter: "http://twitter.com/ronbronson"
-  github: "http://github.com/quarterback"
-  instagram: "http://instagram.com/ronbronson"
-  linkedin: "http://linkedin.com/in/ronbronson"
-  dribbble: "http://dribbble.com/ronbronson"
+  twitter: http://twitter.com/ronbronson
+  github: http://github.com/quarterback
+  instagram: http://instagram.com/ronbronson
+  linkedin: http://linkedin.com/in/ronbronson
+  dribbble: http://dribbble.com/ronbronson
   youtube: "#"
 taxonomies:
   author: Ron Bronson
